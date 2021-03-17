@@ -1,9 +1,15 @@
 # Pewlett-Hackard-Analysis
 ## Project Overview
-Overview of the analysis: Explain the purpose of this analysis.
+The purpose of this analysis is to understand Pewlett Hackard's number of retiring employees per title and identify employees who qualify to participate in a mentorship program.
 
 ## Results
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+* ![Retiring employees by titles](https://github.com/krockway/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
+* ![Mentee employees by titles](https://github.com/krockway/Pewlett-Hackard-Analysis/blob/main/Images/mentee_titles.png)
+* Majority of those retiring are Senior Engineer (29,414) or Senior Staff (28,255)
+* Majority of those eligible for mentorship program are Engineer (486) and Senior Staff (462)
+* PH should focus on mentoring their engineering team as they are the bulk of the staff overall, and a significant number will be retiring soon
+* There mentorship program should not focus on managers, as there are few within the org overall and few who will be retiring soon.
 
 ## Summary
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
